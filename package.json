@@ -1,0 +1,24 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-gibson/team-profile-generator.git"
+  },
+  "author": "kyle gibson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-gibson/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/kyle-gibson/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3",
+    "node": "^15.4.0"
+  }
+}
