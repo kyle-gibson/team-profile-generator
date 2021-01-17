@@ -14,7 +14,7 @@ const { allowedNodeEnvironmentFlags } = require("process");
 
 const employees = [];
 
-const questionsManager = async => {
+const questionsManager = async () => {
     await inquirer.prompt([
     {
         type:'input',
